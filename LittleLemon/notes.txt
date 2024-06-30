@@ -1,0 +1,2 @@
+USER                Email                   Password
+Spongebob        sponge@littlelemon.com      SoggyBottom123
